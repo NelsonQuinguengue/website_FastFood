@@ -1,2 +1,2 @@
-# website_FastFood
+# website
 Web site de restorante Fast Food 
